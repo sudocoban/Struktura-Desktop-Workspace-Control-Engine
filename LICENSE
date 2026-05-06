@@ -1,23 +1,28 @@
-COMMERCIAL LICENSE AGREEMENT
+SOFTWARE LICENSE AGREEMENT (FREEMIUM MODEL)
 
 Copyright (c) 2026 sudocoban. All rights reserved.
 
-1. LICENSE GRANT
-Subject to the payment of the $20 fee, the author grants you a non-exclusive, non-transferable license to use this software. This license is for your personal or internal business use only.
+1. THE FREE TIER
 
-2. RESTRICTIONS
+    You are granted a limited license to use the "Free" version of this software at no cost.
 
-    You may not redistribute, sublicense, or rent this software to any third party.
+    The Free version is provided for personal or evaluation use only.
 
-    You may not post the source code or binary files on any public forum, website, or repository.
+    You may not redistribute the software or any of its components.
 
-    You may not modify, decompile, or reverse-engineer the software.
+2. THE PRO TIER ($20)
 
-3. OWNERSHIP
-The software and all intellectual property rights therein remain the sole property of the author (sudocoban). This agreement does not grant you any ownership rights to the software.
+    Access to "Pro" features is strictly conditional upon the purchase of a valid license key for $20.
 
-4. TERMINATION
-This license is effective until terminated. Your rights under this license will terminate automatically without notice if you fail to comply with any of its terms.
+    One license key grants one user the right to use the Pro features on their personal devices.
 
-5. DISCLAIMER OF WARRANTY
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+    Sharing, publishing, or reselling Pro license keys is strictly prohibited.
+
+3. SOURCE CODE & MODIFICATIONS
+
+    This is Proprietary Software. Even if you have access to the source code, you may not modify, reverse-engineer, or create derivative works for public distribution.
+
+    The software remains the sole intellectual property of sudocoban.
+
+4. NO WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
